@@ -46,14 +46,14 @@ h6,
 /* font edit */
 .display-1 {
     font-family: 'Be Vietnam', sans-serif;
-    font-size: 4.0625rem;
+    font-size: 65px;
     line-height: 1;
     letter-spacing: -0.03em;
 }
 
 .display-2 {
     font-family: 'Be Vietnam', sans-serif;
-    font-size: 3.1875rem;
+    font-size: 51px;
     line-height: 1.05;
     letter-spacing: -0.02em;
 }
@@ -67,14 +67,14 @@ h6,
 
 .display-5 {
     font-family: 'Be Vietnam', sans-serif;
-    font-size: 2.4375rem;
+    font-size: 39px;
     line-height: 1.1;
     letter-spacing: -0.01em;
 }
 
 .display-7 {
     font-family: 'Be Vietnam', sans-serif;
-    font-size: 1.5625rem;
+    font-size: 26px;
     line-height: 1.35;
     letter-spacing: -0.01em;
 }
@@ -465,18 +465,6 @@ section {
     overflow: visible !important;
 }
 
-/* .carousel-section .carousel-item.active {
-    display: flex;
-    transform: translateX(-50%);
-}
-
-.carousel-section .carousel-item:first-child {
-    display: flex;
-    transform: translateX(-50%);
-} */
-
-
-
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -541,8 +529,6 @@ section {
     background: rgba(23, 22, 26, 0.3);
     transition: all cubic-bezier(0.4, 0, 0.2, 1) 0.4s;
 }
-
-
 
 /*  */
 /* carousel section end  */
@@ -673,7 +659,7 @@ section {
 }
 
 .display-4>.iconfont {
-    font-size: 1rem;
+    font-size: 16px;
 }
 
 .btn .iconfont {
@@ -1060,8 +1046,8 @@ section {
 
 /* Client section */
 .sponsors_details {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 64px;
+    padding-bottom: 64px;
     background-color: #f5f7fd;
 }
 
